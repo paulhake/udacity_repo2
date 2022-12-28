@@ -5,3 +5,4 @@ git clone
 git commit -m
 git push
 git add
+git checkout -b "new branch"
