@@ -2,6 +2,6 @@
 udacity clean code class
 
 git clone
-git commit
+git commit -m
 git push
 git add
