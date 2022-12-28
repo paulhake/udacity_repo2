@@ -5,5 +5,9 @@ git clone
 git commit -m
 git push
 git add
+
 git branch
 git checkout
+
+git checkout -b "new branch"
+
